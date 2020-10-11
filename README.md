@@ -11,10 +11,11 @@ Collection of awesome DL/Math resources to feel enlightened!
 ## Maths
 
 * [JUST THE MATHS](https://archive.uea.ac.uk/jtm/contents.htm): Quick notes on almost every topic in mathematics.
-* [A Brief Introduction to Machine Learning for Engineers](https://arxiv.org/pdf/1709.02840.pdf): An entry point for researchers with a background in probability and linear algebra.
+
 * [The Matrix Calculus You Need For Deep Learning](https://arxiv.org/pdf/1802.01528.pdf):All the matrix calculus you need in order to understand the training of deep neural networks.
 
 ## Miscellaneous
 
 * [A Beginner's Guide to the Mathematics of Neural Networks](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.161.3556&rep=rep1&type=pdf): A paper discussing the evolution of artifical neural network inspired by biological neural networks.
 
+* [A Brief Introduction to Machine Learning for Engineers](https://arxiv.org/pdf/1709.02840.pdf): An entry point for researchers with a background in probability and linear algebra.
